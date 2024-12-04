@@ -3,7 +3,8 @@ this is a project of an atm interface
 <br>
 Author-Tripti Sharma
 README.md
-lass ATM{
+<br>
+class ATM{
     float Balance;
 
     int PIN=5674;
