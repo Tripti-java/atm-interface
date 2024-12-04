@@ -5,6 +5,7 @@ Author-Tripti Sharma
 README.md
 <br>
 class ATM{
+<br>
     float Balance;
 
     int PIN=5674;
